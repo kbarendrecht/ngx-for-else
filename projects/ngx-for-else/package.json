@@ -1,0 +1,28 @@
+{
+  "name": "ngx-for-else",
+  "version": "14.0.2",
+  "description": "A convenience directive to add empty states more easily.",
+  "keywords": [
+    "angular",
+    "directive",
+    "ngFor",
+    "empty",
+    "template"
+  ],
+  "author": {
+    "name": "Kars Barendrecht",
+    "email": "karsbarendrecht@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kbarendrecht/ngx-for-else"
+  },
+  "peerDependencies": {
+    "@angular/common": "^14.1.0",
+    "@angular/core": "^14.1.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "license": "MIT"
+}
